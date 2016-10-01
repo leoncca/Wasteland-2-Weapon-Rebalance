@@ -1,0 +1,13 @@
+{
+	firingModeInfos : [
+		{actionPointCost : 4,  ammoCost : 1, chanceToHitPenalty : 0} //Uses whole numbers not decimals
+	]
+	caliber : 1 //9mm (Check wiki for ammo caliber)
+	clipSize : 12
+	criticalHitDamageMultiplier : 1.5 //Uses decimal points
+	minDamage : 25
+	maxDamage : 35
+	chanceToJam : 95 //Uses whole numbers
+	armorPenetration : 4
+	attackRange : 18
+}

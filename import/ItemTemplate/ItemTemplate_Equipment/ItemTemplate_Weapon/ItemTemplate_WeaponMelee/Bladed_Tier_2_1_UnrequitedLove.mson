@@ -1,0 +1,7 @@
+{
+	actionPointCost : 3
+	criticalHitDamageMultiplier : 1.7 //Uses decimal points
+	minDamage : 26
+	maxDamage : 38
+	armorPenetration : 5
+}

@@ -1,0 +1,22 @@
+{
+	firingModeInfos : [
+		{actionPointCost : 5,  ammoCost : 1, chanceToHitPenalty : 0} //Uses whole numbers not decimals
+		{actionPointCost : 7,  ammoCost : 3, chanceToHitPenalty : 30} //Uses whole numbers not decimals
+	]
+	caliber : 8 //7.62 (Check wiki for ammo caliber)
+	clipSize : 30
+	actionPointCostToReload : 7
+	criticalHitDamageMultiplier : 2.4 //Uses decimal points
+	minDamage : 35
+	maxDamage : 55
+	chanceToJam : 3 //Uses whole numbers not decimals
+	actionPointCostToUnjam : 8
+	armorPenetration : 6
+	attackRange : 22
+	optimalRange : 17
+	hitChancePastOptimalRange : -25 //Uses whole numbers not decimals
+	pointBlankRange : 5
+	hitChanceAtPointBlankRange : -20 //Uses whole numbers not decimals
+	price : 1000
+	percentToApplyStatusEffect : 100
+}

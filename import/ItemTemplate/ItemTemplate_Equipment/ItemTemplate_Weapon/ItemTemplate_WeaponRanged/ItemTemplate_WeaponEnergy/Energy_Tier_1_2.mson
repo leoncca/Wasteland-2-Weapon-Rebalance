@@ -1,0 +1,11 @@
+{
+	firingModeInfos : [
+		{actionPointCost : 6,  ammoCost : 1, chanceToHitPenalty : 0} //Uses whole numbers not decimals
+		{actionPointCost : 8,  ammoCost : 3, chanceToHitPenalty : 0} //Uses whole numbers not decimals
+	]
+	caliber : 13 //energy cell (Check wiki for ammo caliber)
+	clipSize : 8
+	minDamage : 29
+	maxDamage : 39
+	attackRange : 20
+}
