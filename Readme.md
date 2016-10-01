@@ -1,9 +1,11 @@
-# Wasteland-2-Weapon-Rebalance
+# Wasteland 2 Weapon Rebalance
 
-This mod is an uodated version of the original [Weapon Re-Balance Mod](https://forums.inxile-entertainment.com/viewtopic.php?f=18&t=10719)
+This mod is an updated version of the original [Weapon Re-Balance Mod](https://forums.inxile-entertainment.com/viewtopic.php?f=18&t=10719)
 made to work with the latest version of the Director's Cut.
 
 To install the mod, drag the 'Import' folder into "...\Wasteland 2 Director's Cut\Build\WL2_Data\Mods"
+
+This mod is fully functional mid-playthrough.
 
 ##CHANGELOG
 ###Assault Rifles 
