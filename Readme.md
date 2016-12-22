@@ -1,5 +1,8 @@
 # Wasteland 2 Weapon Rebalance
 
+**This changelog is a WiP, the mod changes assault rifles, handguns, machine guns, sniper rifles, shotguns, energy weapons, and bladed weapons, however, the changelog has yet to document all these changes. The mod itself, however, is largely complete.  
+I can be reached at https://www.reddit.com/user/SniffleMan/**
+
 This mod is an updated version of the original [Weapon Re-Balance Mod](https://forums.inxile-entertainment.com/viewtopic.php?f=18&t=10719)
 made to work with the latest version of the Director's Cut.
 
@@ -101,5 +104,99 @@ Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | C
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 Vanilla | G41 | 6-2 | 5/7 | 7.62mm | 30 | 1.6x | 150-180 | 2% | 7 | 23m
 Modded | G41 | 6-2 | 5/7 | 7.62mm | 30 | 1.6x | 57-75 | 2% | 8 | 25m
+</details>
+***
+
+###Handguns
+<details>
+  <summary>Click to show </summary>
+  Design goal: Moderate DMG, average range (longer than shotguns but less than AR), low penetration.
+  
+* Fires larger rounds (presumed ACP/Hollowpoint) than AR. IF it pentrates should deal more damage. Guns 
+firing 0.45 cal should damage basically close to a Sniper Rifle but short range, low pen.
+
+* An optimal Pistol Ranger requires 9 or 10 AP. 9 AP Ranger can use 3AP Handguns, firing 3 rounds per turn. 10 AP Ranger can wield 4AP Handguns and fire 1 aimed headshot and 1 normal round per turn.
+
+* .45 handguns with a Scope are popular with big game hunters, so don't underestimate them! http://www.fieldandstream.com/articles/...er-hunting
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Ol' Navy Revolver | 1-2 | 4/- | .38 Cal | 6 | 2.0x | 10-14 | 3% | 6 | 10m
+Modded | Ol' Navy Revolver | 1-2 | 4/- | .38 Cal | 6 | 1.7x | 10-16 | 4% | 2 | 14m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | The Blix | 1-2+ | 3/- | .38 Cal | 6 | 1.6x | 12-17 | 4% | 1 | 10m
+Modded | The Blix | 1-2+ | 4/- | .38 Cal | 6 | 1.7x | 15-20 | 4% | 2 | 14m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | .38 Semi-Automatic | 1-3 | 3/- | .38 Cal | 6 | 2.0x | 07-09 | 3% | 1 | 13m
+Modded | .38 Semi-Automatic | 1-3 | 3/- | .38 Cal | 6 | 1.6x | 10-15 | 4% | 2 | 16m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Marakov | 2-1 | 3/- | .38 Cal | 8 | 1.8x | 10-15 | 3% | 2 | 12m
+Modded | Marakov | 2-1 | 3/- | .38 Cal | 8 | 1.8x | 10-20 | 4% | 3 | 16m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Midnight Special | 2-2 | 3/- | .38 Cal | 6 | 1.7x | 14-20 | 2% | 2 | 11m
+Modded | Midnight Special | 2-2 | 2/- | .38 Cal | 6 | 1.5x | 08-14 | 3% | 3 | 14m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | .38 Revolver | 3-1 | 3/- | .38 Cal | 6 | 1.6x | 19-24 | 3% | 3 | 10m
+Modded | .38 Revolver | 3-1 | 4/- | .38 Cal | 6 | 1.6x | 20-30 | 0% | 4 | 16m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | FFS Benetto | 3-2 | 4/- | 9mm | 12 | 1.5x | 36-42 | 4% | 3 | 14m
+Modded | FFS Benetto | 3-2 | 4/- | 9mm | 12 | 1.5x | 25-35 | 5% | 4 | 18m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | FFS Benetto (Bowling) | 3-2+ | 4/- | 9mm | 12 | 1.5x | 36-42 | 95% | 3 | 14m
+Modded | FFS Benetto (Bowling) | 3-2+ | 4/- | 9mm | 12 | 1.5x | 25-35 | 95% | 4 | 18m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Click 17 | 4-1 | 3/- | 9mm | 12 | 1.5x | 33-38 | 2% | 4 | 12m
+Modded | Click 17 | 4-1 | 3/- | 9mm | 12 | 1.5x | 25-35 | 3% | 6 | 18m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | .45 Peace Keeper | 4-2 | 4/- | .45 Cal | 6 | 2.0x | 57-65 | 0% | 4 | 9m
+Modded | .45 Peace Keeper | 4-2 | 4/- | .45 Cal | 6 | 2.0x | 34-60 | 0% | 6 | 16m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | .45 Widow Maker | 5-1 | 3/- | .45 Cal | 6 | 1.5x | 44-53 | 0% | 5 | 11m
+Modded | .45 Widow Maker | 5-1 | 4/- | .45 Cal | 6 | 1.5x | 50-90 | 0% | 8 | 20m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Click 19 | 5-2 | 4/- | 9mm | 15 | 1.5x | 76-86 | 2% | 5 | 13m
+Modded | Click 19 | 5-2 | 3/- | 9mm | 15 | 1.5x | 30-50 | 2% | 8 | 18m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Wasteland Hawk | 6-1 | 3/- | .45 Cal | 7 | 1.5x | 66-76 | 2% | 6 | 14m
+Modded | Wasteland Hawk | 6-1 | 3/- | .45 Cal | 7 | 1.5x | 50-90 | 2% | 8 | 18m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | M1911 | 6-2 | 4/- | .45 Cal | 7 | 1.5x | 100-135 | 0% | 7 | 15m
+Modded | M1911 | 6-2 | 4/- | .45 Cal | 7 | 1.5x | 60-110 | 2% | 8 | 18m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Gold Engraved Derringer | Unqiue | 3/- | .38 Cal | 2 | 2.0x | 08-09 | 3% | 2 | 16m
+Modded | Gold Engraved Derringer | Unqiue | 2/- | .38 Cal | 2 | 2.0x | 10-16 | 2% | 3 | 14m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Rose's Thorn | Unqiue | 3/- | 12 Gauge | 1 | 2.0x | 05-13 | 3% | 1 | 9m
+Modded | Rose's Thorn | Unqiue | 4/- | 12 Gauge | 1 | 2.0x | 25-50 | 2% | 2 | 14m
 </details>
 ***
