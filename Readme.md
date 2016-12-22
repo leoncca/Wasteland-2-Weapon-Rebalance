@@ -1,5 +1,8 @@
 # Wasteland 2 Weapon Rebalance
 
+**This changelog is a WiP, the mod changes assault rifles, handguns, machine guns, sniper rifles, shotguns, energy weapons, and bladed weapons, however, the changelog has yet to document all these changes. The mod itself, however, is largely complete.  
+I can be reached at https://www.reddit.com/user/SniffleMan/**
+
 This mod is an updated version of the original [Weapon Re-Balance Mod](https://forums.inxile-entertainment.com/viewtopic.php?f=18&t=10719)
 made to work with the latest version of the Director's Cut.
 
@@ -104,8 +107,6 @@ Modded | G41 | 6-2 | 5/7 | 7.62mm | 30 | 1.6x | 57-75 | 2% | 8 | 25m
 </details>
 ***
 
-##CHANGELOG
-11
 ###Handguns
 <details>
   <summary>Click to show </summary>
@@ -170,13 +171,13 @@ Modded | .45 Peace Keeper | 4-2 | 4/- | .45 Cal | 6 | 2.0x | 34-60 | 0% | 6 | 16
 
 Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-Vanilla | Click 19 | 5-1 | 4/- | 9mm | 15 | 1.5x | 76-86 | 2% | 5 | 13m
-Modded | Click 19 | 5-1 | 3/- | 9mm | 15 | 1.5x | 30-50 | 2% | 8 | 18m
+Vanilla | .45 Widow Maker | 5-1 | 3/- | .45 Cal | 6 | 1.5x | 44-53 | 0% | 5 | 11m
+Modded | .45 Widow Maker | 5-1 | 4/- | .45 Cal | 6 | 1.5x | 50-90 | 0% | 8 | 20m
 
 Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-Vanilla | .45 Widow Maker | 5-2 | 3/- | .45 Cal | 6 | 1.5x | 44-53 | 0% | 5 | 11m
-Modded | .45 Widow Maker | 5-2 | 4/- | .45 Cal | 6 | 1.5x | 50-90 | 0% | 8 | 20m
+Vanilla | Click 19 | 5-2 | 4/- | 9mm | 15 | 1.5x | 76-86 | 2% | 5 | 13m
+Modded | Click 19 | 5-2 | 3/- | 9mm | 15 | 1.5x | 30-50 | 2% | 8 | 18m
 
 Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
@@ -192,3 +193,10 @@ Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | C
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 Vanilla | Gold Engraved Derringer | Unqiue | 3/- | .38 Cal | 2 | 2.0x | 08-09 | 3% | 2 | 16m
 Modded | Gold Engraved Derringer | Unqiue | 2/- | .38 Cal | 2 | 2.0x | 10-16 | 2% | 3 | 14m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Rose's Thorn | Unqiue | 3/- | 12 Gauge | 1 | 2.0x | 05-13 | 3% | 1 | 9m
+Modded | Rose's Thorn | Unqiue | 4/- | 12 Gauge | 1 | 2.0x | 25-50 | 2% | 2 | 14m
+</details>
+***
