@@ -3,7 +3,7 @@
 		{actionPointCost : 2,  ammoCost : 1, chanceToHitPenalty : 0} //Uses whole numbers not decimals
 	]
 	caliber : 0 //.38 (Check wiki for ammo caliber)
-	clipSize : 6
+	clipSize : 2
 	criticalHitDamageMultiplier : 2.0 //Uses decimal points
 	minDamage : 10
 	maxDamage : 16
