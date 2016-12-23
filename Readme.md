@@ -200,7 +200,7 @@ Modded | Rose's Thorn | Unqiue | 4/- | 12 Gauge | 1 | 2.0x | 25-50 | 2% | 2 | 14
 </details>
 ***
 
-###Assault Rifles 
+###Shotguns
 <details>
   <summary>Click to show </summary>
   Design Goal: High DMG, close range AoE. Low PEN, great at clearing soft targets but not able to plow through armored foes.
