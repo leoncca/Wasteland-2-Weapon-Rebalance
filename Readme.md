@@ -112,8 +112,7 @@ Modded | G41 | 6-2 | 5/7 | 7.62mm | 30 | 1.6x | 57-75 | 2% | 8 | 25m
   <summary>Click to show </summary>
   Design goal: Moderate DMG, average range (longer than shotguns but less than AR), low penetration.
   
-* Fires larger rounds (presumed ACP/Hollowpoint) than AR. IF it pentrates should deal more damage. Guns 
-firing 0.45 cal should damage basically close to a Sniper Rifle but short range, low pen.
+* Fires larger rounds (presumed ACP/Hollowpoint) than AR. IF it pentrates should deal more damage. Guns firing 0.45 cal should damage basically close to a Sniper Rifle but short range, low pen.
 
 * An optimal Pistol Ranger requires 9 or 10 AP. 9 AP Ranger can use 3AP Handguns, firing 3 rounds per turn. 10 AP Ranger can wield 4AP Handguns and fire 1 aimed headshot and 1 normal round per turn.
 
@@ -198,5 +197,108 @@ Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | C
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 Vanilla | Rose's Thorn | Unqiue | 3/- | 12 Gauge | 1 | 2.0x | 05-13 | 3% | 1 | 9m
 Modded | Rose's Thorn | Unqiue | 4/- | 12 Gauge | 1 | 2.0x | 25-50 | 2% | 2 | 14m
+</details>
+***
+
+###Shotguns
+<details>
+  <summary>Click to show </summary>
+  Design Goal: High DMG, close range AoE. Low PEN, great at clearing soft targets but not able to plow through armored foes.
+
+* Currently shotguns overall are very weak (except for OU, Spaz, Jack), with single-fire shotguns dealing very low damage. It's just not rewarding to get into your enemy's face and tickle them. 
+
+* Boost all shotgun damage, but reduce PEN, making it a niche weapon against soft targets where it shines. Still useful against groups of high armored enemies, but weak against a single armored target.
+
+* Added weapon mods to shotguns, should help to compete with assault rifles.
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Pump Shotgun | 1-1 | 5/- | 12 Gauge | 7 | 1.5x | 09-14 | 2% | 1 | 12m
+Modded | Pump Shotgun | 1-1 | 4/- | 12 Gauge | 7 | 1.5x | 14-20 | 2% | 1 | 12m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Sawed-Off | 1-2 | 5/7 | 12 Gauge | 2 | 1.5x | 13-19 | 2% | 1 | 9m
+Modded | Sawed-Off | 1-2 | 4/5 | 12 Gauge | 2 | 1.5x | 14-18 | 2% | 1 | 9m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Coach Gun | 2-1 | 5/- | 12 Gauge | 2 | 2.0x | 20-24 | 2% | 2 | 12m
+Modded | Coach Gun | 2-1 | 5/- | 12 Gauge | 2 | 2.0x | 21-28 | 2% | 2 | 12m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | The Red Ryder Rides Again | 2-1+ | 5/- | 12 Gauge | 1 | 2.0x | 38-43 | 2% | 3 | 14m
+Modded | The Red Ryder Rides Again | 2-1+ | 4/- | 12 Gauge | 1 | 2.0x | 34-42 | 2% | 2 | 16m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Lever Action | 2-2 | 6/- | 12 Gauge | 5 | 2.0x | 33-49 | 2% | 2 | 10m
+Modded | Lever Action | 2-2 | 4/- | 12 Gauge | 5 | 2.0x | 24-40 | 2% | 2 | 10m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | The Roach | 2-2+ | 5/- | 12 Gauge | 12 | 2.0x | 32-39 | 0% | 2 | 8m
+Modded | The Roach | 2-2+ | 4/6 | 12 Gauge | 6 | 1.8x | 28-45 | 2% | 2 | 12m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | M-37 Pump Action | 3-1 | 6/- | 12 Gauge | 6 | 1.6x | 41-48 | 2% | 3 | 12m
+Modded | M-37 Pump Action | 3-1 | 4/- | 12 Gauge | 6 | 1.6x | 28-45 | 2% | 3 | 12m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | M-37 Pump Action (Bowling) | 3-1+ | 6/- | 12 Gauge | 6 | 1.6x | 41-48 | 95% | 3 | 12m
+Modded | M-37 Pump Action (Bowling) | 3-1+ | 4/- | 12 Gauge | 6 | 1.6x | 28-45 | 95% | 3 | 12m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | SOSG | 3-2 | 5/- | 12 Gauge | 6 | 2.0x | 47-58 | 2% | 3 | 9m
+Modded | SOSG | 3-2 | 4/- | 12 Gauge | 12 | 2.0x | 25-50 | 2% | 3 | 14m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Over Under | 4-1 | 5/6 | 12 Gauge | 2 | 2.0x | 61-65 | 2% | 4 | 10m
+Modded | Over Under | 4-1 | 3/4 | 12 Gauge | 2 | 2.0x | 28-45 | 2% | 5 | 13m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Street Cleaner | 4-2 | 6/- | 12 Gauge | 20 | 2.0x | 81-90 | 2% | 4 | 13m
+Modded | Street Cleaner | 4-2 | 4/- | 12 Gauge | 20 | 2.0x | 35-60 | 2% | 5 | 13m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Hoblet's Problem Solver | 4-3+ | 5/7 | 12 Gauge | 2 | 2.0x | 27-32 | 2% | 4 | 13m
+Modded | Hoblet's Problem Solver | 4-3+ | 3/4 | 12 Gauge | 2 | 2.0x | 30-50 | 3% | 5 | 13m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | The Holdup | 5-1 | 5/- | 12 Gauge | 5 | 2.0x | 77-84 | 2% | 5 | 9m
+Modded | The Holdup | 5-1 | 4/- | 12 Gauge | 7 | 1.5x | 55-80 | 2% | 7 | 13m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Tactical Shotgun | 5-2 | 6/- | 12 Gauge | 7 | 1.5x | 110-125 | 2% | 5 | 12m
+Modded | Tactical Shotgun | 5-2 | 3/- | 12 Gauge | 5 | 2.0x | 35-60 | 2% | 7 | 13m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Spaz-12 | 6-1 | 5/7 | 12 Gauge | 9 | 2.0x | 105-129 | 2% | 6 | 11m
+Modded | Spaz-12 | 6-1 | 5/8 | 12 Gauge | 9 | 2.0x | 55-80 | 2% | 7 | 13m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Jackhammer | 6-2 | 6/8 | 12 Gauge | 10 | 2.0x | 168-182 | 2% | 6 | 13m
+Modded | Jackhammer | 6-2 | -/7 | 12 Gauge | 10 | 2.0x | 55-80 | 2% | 7 | 13m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Crowd Control Shotgun | Unique | -/3 | 12 Gauge | 2 | 1.3x | 28-42 | 2% | 7 | 10m
+Modded | Crowd Control Shotgun | Unique | -/3 | 12 Gauge | 2 | 1.3x | 50-70 | 2% | 7 | 10m
+
+Vanilla/Modded | Name | Tier | AP per Shot/Burst | Ammo Type | Ammo Capacity | Critical Multiplier | Damage | Chance to Jam | Armor Penetration | Range
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Vanilla | Mississippi Mule | Unique | -/4 | 12 Gauge | 2 | 1.2x | 10-14 | 2% | 2 | 9m
+Modded | Mississippi Mule | Unique | -/5 | 12 Gauge | 2 | 1.2x | 12-18 | 2% | 1 | 9m
 </details>
 ***
