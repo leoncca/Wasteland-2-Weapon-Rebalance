@@ -1,3 +1,5 @@
+This is SniffleMan's project, I just made a copy long ago to fix a small bug. You can find him as SniffleMan on Reddit. It seems the original GitHub project is dead. Feel free to use this, he did a great job.
+
 # Wasteland 2 Weapon Rebalance
 
 **This changelog is a WiP, the mod changes assault rifles, handguns, machine guns, sniper rifles, shotguns, energy weapons, and bladed weapons, however, the changelog has yet to document all these changes. The mod itself, however, is largely complete.  
